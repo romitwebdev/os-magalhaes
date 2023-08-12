@@ -21,7 +21,13 @@ const Menus = () => {
                     </h1>
 
                     <img
-                        src="menu_bottom.png"
+                        src="menu1.jpg"
+                        alt=""
+                        className="menus_image w-100"
+                        loading="lazy"
+                    />
+                    <img
+                        src="menu2.jpg"
                         alt=""
                         className="menus_image w-100"
                         loading="lazy"
